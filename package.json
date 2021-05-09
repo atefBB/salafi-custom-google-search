@@ -1,0 +1,9 @@
+{
+  "name": "albahith",
+  "version": "1.0.0",
+  "description": "Custom Google Search for Salafi Websites",
+  "main": "index.js",
+  "repository": "https://github.com/atefBB/salafi-custom-google-search.git",
+  "author": "Atef Ben Ali <atef.bettaib@gmail.com>",
+  "license": "MIT"
+}
